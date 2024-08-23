@@ -9,4 +9,4 @@
 	url = https://github.com/PixarAnimationStudios/USD
 [submodule "deps/RenderStudioKit"]
 	path = deps/RenderStudioKit
-	url = git@github.com:Radeon-Pro/RenderStudioKit.git
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/RenderStudioKit
